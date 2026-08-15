@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T01:02:20Z",
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9576
+            "stars": 9580
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-14T20:49:36Z",
             "owner": "ClemensElflein",
             "repo": "OpenMower",
-            "stars": 6668
+            "stars": 6671
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-05T09:21:21Z",
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7090
+            "stars": 7102
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2025-12-28T18:54:32Z",
             "owner": "Source-Robotics",
             "repo": "Faze4-Robotic-arm",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-08-14T21:43:01Z",
             "owner": "dorianborian",
             "repo": "sesame-robot",
-            "stars": 3938
+            "stars": 3945
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-10-24T01:56:53Z",
             "owner": "stanfordroboticsclub",
             "repo": "StanfordQuadruped",
-            "stars": 1778
+            "stars": 1777
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-04T15:45:21Z",
             "owner": "mjbots",
             "repo": "moteus",
-            "stars": 1252
+            "stars": 1253
           }
         }
       ],
@@ -331,7 +331,7 @@
             "last_commit": "2026-01-31T10:28:29Z",
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 3473
+            "stars": 3480
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2021-12-06T18:19:35Z",
             "owner": "poppy-project",
             "repo": "poppy-humanoid",
-            "stars": 1038
+            "stars": 1040
           }
         }
       ],
@@ -365,7 +365,7 @@
             "last_commit": "2022-02-04T20:34:14Z",
             "owner": "maxvfischer",
             "repo": "DIY-CNC-machine",
-            "stars": 1950
+            "stars": 1951
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54683
+            "stars": 54685
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34364
+            "stars": 34366
           }
         },
         {
@@ -443,10 +443,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:13:24Z",
+            "last_commit": "2026-08-15T21:42:37Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26656
+            "stars": 26676
           }
         },
         {
@@ -457,10 +457,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T12:19:33Z",
+            "last_commit": "2026-08-15T00:36:40Z",
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 20341
+            "stars": 20356
           }
         },
         {
@@ -471,10 +471,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T23:22:47Z",
+            "last_commit": "2026-08-15T22:40:33Z",
             "owner": "isl-org",
             "repo": "Open3D",
-            "stars": 13885
+            "stars": 13887
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-14T18:52:55Z",
             "owner": "rerun-io",
             "repo": "rerun",
-            "stars": 11300
+            "stars": 11304
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-11T13:06:15Z",
             "owner": "stack-of-tasks",
             "repo": "pinocchio",
-            "stars": 3654
+            "stars": 3655
           }
         },
         {
@@ -527,7 +527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T19:02:58Z",
+            "last_commit": "2026-08-15T23:18:04Z",
             "owner": "borglab",
             "repo": "gtsam",
             "stars": 3633
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-13T22:41:54Z",
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3219
+            "stars": 3242
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-14T19:42:33Z",
             "owner": "ompl",
             "repo": "ompl",
-            "stars": 2125
+            "stars": 2126
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2024-01-05T19:21:01Z",
             "owner": "cartographer-project",
             "repo": "cartographer",
-            "stars": 7942
+            "stars": 7943
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4885
+            "stars": 4886
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-07-22T23:16:32Z",
             "owner": "SteveMacenski",
             "repo": "slam_toolbox",
-            "stars": 2604
+            "stars": 2606
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2024-06-14T15:36:57Z",
             "owner": "uzh-rpg",
             "repo": "flightmare",
-            "stars": 1399
+            "stars": 1398
           }
         },
         {
@@ -825,10 +825,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T23:34:04Z",
+            "last_commit": "2026-08-15T23:27:06Z",
             "owner": "dora-rs",
             "repo": "dora",
-            "stars": 3872
+            "stars": 3873
           }
         },
         {
@@ -839,7 +839,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T14:06:55Z",
+            "last_commit": "2026-08-15T16:14:44Z",
             "owner": "copper-project",
             "repo": "copper-rs",
             "stars": 1451
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T20:05:17Z",
+            "last_commit": "2026-08-15T11:11:29Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 601
@@ -881,7 +881,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6113
+            "stars": 6116
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2022-12-17T00:27:21Z",
             "owner": "cruise-automation",
             "repo": "webviz",
-            "stars": 2325
+            "stars": 2326
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2022-05-13T03:59:09Z",
             "owner": "odriverobotics",
             "repo": "ODriveHardware",
-            "stars": 1083
+            "stars": 1084
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2024-08-07T13:19:15Z",
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19201
+            "stars": 19202
           }
         },
         {
@@ -1277,7 +1277,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2803
+            "stars": 2804
           }
         }
       ],
@@ -1331,7 +1331,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6881
+            "stars": 6935
           }
         },
         {
@@ -1345,7 +1345,7 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4449
+            "stars": 4451
           }
         },
         {
@@ -1359,7 +1359,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3877
+            "stars": 3878
           }
         },
         {
@@ -1373,7 +1373,7 @@
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3013
+            "stars": 3015
           }
         },
         {
@@ -1415,7 +1415,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1472
+            "stars": 1474
           }
         },
         {
@@ -1429,7 +1429,7 @@
             "last_commit": "2026-08-13T07:25:05Z",
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1419
+            "stars": 1422
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:35:44.307Z",
+    "last_updated": "2026-08-15T23:33:35.202Z",
     "original_repository": "msadowski/awesome-weekly-robotics",
     "original_repository_sha": "b2d09f0054278d1e5a0859fb718056a85f4d886d",
     "enhanced_repository": "enhansome/enhansome-weekly-robotics",
