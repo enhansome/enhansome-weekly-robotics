@@ -7,11 +7,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### Rovers and Cars
 
 * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,599 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
-* [OpenMower](https://github.com/ClemensElflein/OpenMower) ⭐ 6,678 | 🐛 12 | 🌐 Shell | 📅 2026-08-14 - an open-source, RTK-GPS enabled mower project. Licence: CC BY-NC-SA 4.0.
-* [DonkeyCar](https://github.com/autorope/donkeycar) ⭐ 3,494 | 🐛 134 | 🌐 Python | 📅 2026-08-22 - DIY self-driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
-* [OpenRobot](https://github.com/intel-isl/OpenBot) ⭐ 3,418 | 🐛 35 | 🌐 Swift | 📅 2026-08-22 - $50 robot car that interfaces with smartphone for high level control. Licence: MIT.
-* [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) ⭐ 1,391 | 🐛 12 | 📅 2026-08-05 - small omnidirectional robot with an [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,167 | 🐛 82 | 📅 2026-08-05 attached to it. Licence: Apache 2.0.
-* [Linorobot](https://github.com/linorobot/linorobot) ⭐ 1,110 | 🐛 27 | 🌐 C++ | 📅 2023-05-10 - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
+* [OpenMower](https://github.com/ClemensElflein/OpenMower) ⭐ 6,679 | 🐛 12 | 🌐 Shell | 📅 2026-08-14 - an open-source, RTK-GPS enabled mower project. Licence: CC BY-NC-SA 4.0.
+* [DonkeyCar](https://github.com/autorope/donkeycar) ⭐ 3,495 | 🐛 134 | 🌐 Python | 📅 2026-08-22 - DIY self-driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
+* [OpenRobot](https://github.com/intel-isl/OpenBot) ⭐ 3,424 | 🐛 35 | 🌐 Swift | 📅 2026-08-22 - $50 robot car that interfaces with smartphone for high level control. Licence: MIT.
+* [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) ⭐ 1,392 | 🐛 12 | 📅 2026-08-05 - small omnidirectional robot with an [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,174 | 🐛 82 | 📅 2026-08-05 attached to it. Licence: Apache 2.0.
+* [Linorobot](https://github.com/linorobot/linorobot) ⭐ 1,111 | 🐛 27 | 🌐 C++ | 📅 2023-05-10 - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
 * [Mars-Rover](https://github.com/jakkra/Mars-Rover) ⭐ 591 | 🐛 8 | 🌐 C++ | 📅 2022-10-29 - Curiosity/Perseverance inspired Rover with open source hardware and software (C++). Licence: MIT.
 * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) ⭐ 508 | 🐛 1 | 🌐 C | 📅 2025-09-21 - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be built on $500 budget. Licence: MIT.
 * [MuSHR](https://github.com/prl-mushr/mushr) ⭐ 189 | 🐛 5 | 🌐 CMake | 📅 2026-08-14 - An open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
@@ -22,7 +22,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ### Robot Arms
 
-* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,167 | 🐛 82 | 📅 2026-08-05 - Open Source 3D printable low-cost robot arm for accessible end-to-end learning. Licence: Apache 2.0.
+* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,174 | 🐛 82 | 📅 2026-08-05 - Open Source 3D printable low-cost robot arm for accessible end-to-end learning. Licence: Apache 2.0.
 * [Faze4](https://github.com/PCrnjak/Faze4-Robotic-arm) ⭐ 890 | 🐛 0 | 🌐 C++ | 📅 2025-12-28 - Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and anyone interested in making his own robot arm. Licence: MIT.
 * [Dexter](https://github.com/HaddingtonDynamics/Dexter) ⭐ 436 | 🐛 47 | 🌐 C | 📅 2024-06-17 - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
 * [Reachy 2019](https://github.com/pollen-robotics/reachy) ⭐ 156 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-06-22 - A 7-DOF prosthesis robotic arm developed by Pollen Robotics. The software is licenced under LGPL licence while [hardware](https://cad.onshape.com/documents/66388ae9c63cef53d76acd77/w/68c2411483d5bc65c7f54234/e/581d46ba9b8ee98de9d636ee) is licenced under CC BY-SA.
@@ -31,16 +31,16 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ### Quadrupeds
 
-* [Sesame Robot](https://github.com/dorianborian/sesame-robot/) ⭐ 4,037 | 🐛 16 | 🌐 C | 📅 2026-08-14 - ESP32-based low-cost quadruped robot. Locence: Apache 2.0.
-* [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) ⭐ 2,546 | 🐛 11 | 📅 2024-07-08 - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
+* [Sesame Robot](https://github.com/dorianborian/sesame-robot/) ⭐ 4,078 | 🐛 16 | 🌐 C | 📅 2026-08-14 - ESP32-based low-cost quadruped robot. Locence: Apache 2.0.
+* [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) ⭐ 2,548 | 🐛 11 | 📅 2024-07-08 - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
 * [Stanford Quadruped (Pupper)](https://github.com/stanfordroboticsclub/StanfordQuadruped) ⭐ 1,782 | 🐛 25 | 🌐 Python | 📅 2024-10-24 - A low cost quadruped robot with the BoM coming to around $600-900 depending on what components you already have. Licence: MIT.
 * [mjbots quad A0](https://github.com/mjbots/moteus) ⭐ 1,263 | 🐛 1 | 🌐 C++ | 📅 2026-08-04 - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
 * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research. Licence: BSD-3.
 
 ### Bipedals
 
-* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 3,508 | 🐛 25 | 🌐 Python | 📅 2026-01-31 - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
-* [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) ⭐ 1,045 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-12-06 - An open-source and 3D printed humanoid robot. Licence: Hardware CC BY-SA, Software: GPL v3.
+* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 3,511 | 🐛 25 | 🌐 Python | 📅 2026-01-31 - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
+* [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) ⭐ 1,046 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-12-06 - An open-source and 3D printed humanoid robot. Licence: Hardware CC BY-SA, Software: GPL v3.
 
 ## Actuators
 
@@ -56,7 +56,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Graphical User Interfaces
 
-* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,089 | 🐛 1,073 | 🌐 JavaScript | 📅 2026-08-20 - Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.
+* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,090 | 🐛 1,074 | 🌐 JavaScript | 📅 2026-08-23 - Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.
 
 ## Soft Robotics
 
@@ -65,7 +65,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Machining and 3D Printing
 
-* [DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) ⭐ 1,979 | 🐛 2 | 📅 2022-02-04 - A very thorough DIY build of a CNC machine based on a Makita router with a very permissive licence.
+* [DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) ⭐ 2,004 | 🐛 2 | 📅 2022-02-04 - A very thorough DIY build of a CNC machine based on a Makita router with a very permissive licence.
 * [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) ⭐ 162 | 🐛 0 | 🌐 C# | 📅 2021-01-17 - Prepare pointclouds from aerial LIDAR scans for 3D printing. Licence: MIT.
 * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator) ⭐ 123 | 🐛 4 | 🌐 Python | 📅 2020-12-15 - A cycloidal reduction drive generator script for Autodesk Fusion360. Licence: Public Domain.
 * [LinuxCNC](http://linuxcnc.org/) - Open Source software that can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more. Licence: GPLv2.
@@ -95,21 +95,21 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Libraries and Frameworks
 
-* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 54,741 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18 - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,374 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
-* [LeRobot](https://github.com/huggingface/lerobot) ⭐ 26,835 | 🐛 813 | 🌐 Python | 📅 2026-08-22 - Developped by Hugging Face, LeRobot provides models, datasets and tools for real-world robotics in PyTorch. Licence: Apache 2.0.
-* [LiveKit](https://github.com/livekit/livekit) ⭐ 20,483 | 🐛 181 | 🌐 Go | 📅 2026-08-22 - LiveKit is an open-source WebRTC SFU & SDKs to enable low-latency realtime streaming of video, audio, & data.  SDKs available in [Rust](https://github.com/livekit/rust-sdks) ⭐ 480 | 🐛 117 | 🌐 Assembly | 📅 2026-08-22, [Python](https://github.com/livekit/python-sdks) ⭐ 379 | 🐛 45 | 🌐 Python | 📅 2026-08-22, [C++](https://github.com/livekit/client-sdk-cpp) ⭐ 67 | 🐛 16 | 🌐 C++ | 📅 2026-08-21, [Javascript](https://github.com/livekit/client-sdk-js) ⭐ 648 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-21, [Swift](https://github.com/livekit/client-sdk-swift) ⭐ 439 | 🐛 30 | 🌐 Swift | 📅 2026-08-21, [Kotlin](https://github.com/livekit/client-sdk-android) ⭐ 351 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-20, [Unity](https://github.com/livekit/client-sdk-unity) ⭐ 93 | 🐛 30 | 🌐 C# | 📅 2026-08-14, [Flutter](https://github.com/livekit/client-sdk-flutter) ⭐ 415 | 🐛 71 | 🌐 Dart | 📅 2026-08-18, [ESP32](https://github.com/livekit/client-sdk-esp32) ⭐ 145 | 🐛 15 | 🌐 C | 📅 2026-08-21.  License: Apache 2.0.
-* [Open3D](https://github.com/isl-org/Open3D) ⭐ 13,906 | 🐛 1,318 | 🌐 C++ | 📅 2026-08-22 - an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. Licence: MIT.
-* [Rerun](https://github.com/rerun-io/rerun) ⭐ 11,340 | 🐛 1,272 | 🌐 Rust | 📅 2026-08-21 - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time. It lets you debug and understand the internal state and data of your systems with minimal code. Licence: Dual licence under MIT OR Apache-2.0.
-* [Ceres Solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,542 | 🐛 68 | 🌐 C++ | 📅 2026-08-19 - An open source C++ library for modeling and solving large, complicated optimization problems, used by many organizations for bundle adjustment, SLAM, camera calibration and many other robotics-based applications. Licence: BSD-3 Clause.
-* [pinocchio](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,675 | 🐛 110 | 🌐 C++ | 📅 2026-08-11 - a fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. Licence: BSD-2 Clause.
-* [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,644 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-22 - a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM (Simultaneous Localization and Mapping), VO (Visual Odometry), and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan. Licence: BSD.
-* [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) ⭐ 3,425 | 🐛 111 | 🌐 C++ | 📅 2026-08-22 - this toolbox brings robotics-specific functionality to Python, and leverages Python's advantages of portability, ubiquity and support, and the capability of the open-source ecosystem for linear algebra (numpy, scipy), graphics (matplotlib, three.js, WebGL), interactive development (jupyter, jupyterlab, mybinder.org), and documentation (sphinx). Licence: MIT.
-* [Open Motion Planning Library](https://github.com/ompl/ompl) ⭐ 2,131 | 🐛 99 | 🌐 C++ | 📅 2026-08-14 - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 54,743 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18 - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,386 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
+* [LeRobot](https://github.com/huggingface/lerobot) ⭐ 26,851 | 🐛 817 | 🌐 Python | 📅 2026-08-23 - Developped by Hugging Face, LeRobot provides models, datasets and tools for real-world robotics in PyTorch. Licence: Apache 2.0.
+* [LiveKit](https://github.com/livekit/livekit) ⭐ 20,490 | 🐛 182 | 🌐 Go | 📅 2026-08-22 - LiveKit is an open-source WebRTC SFU & SDKs to enable low-latency realtime streaming of video, audio, & data.  SDKs available in [Rust](https://github.com/livekit/rust-sdks) ⭐ 480 | 🐛 117 | 🌐 Assembly | 📅 2026-08-23, [Python](https://github.com/livekit/python-sdks) ⭐ 379 | 🐛 45 | 🌐 Python | 📅 2026-08-23, [C++](https://github.com/livekit/client-sdk-cpp) ⭐ 67 | 🐛 16 | 🌐 C++ | 📅 2026-08-21, [Javascript](https://github.com/livekit/client-sdk-js) ⭐ 648 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-21, [Swift](https://github.com/livekit/client-sdk-swift) ⭐ 439 | 🐛 30 | 🌐 Swift | 📅 2026-08-21, [Kotlin](https://github.com/livekit/client-sdk-android) ⭐ 351 | 🐛 84 | 🌐 Kotlin | 📅 2026-08-20, [Unity](https://github.com/livekit/client-sdk-unity) ⭐ 93 | 🐛 30 | 🌐 C# | 📅 2026-08-14, [Flutter](https://github.com/livekit/client-sdk-flutter) ⭐ 415 | 🐛 71 | 🌐 Dart | 📅 2026-08-18, [ESP32](https://github.com/livekit/client-sdk-esp32) ⭐ 145 | 🐛 15 | 🌐 C | 📅 2026-08-21.  License: Apache 2.0.
+* [Open3D](https://github.com/isl-org/Open3D) ⭐ 13,908 | 🐛 1,314 | 🌐 C++ | 📅 2026-08-23 - an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. Licence: MIT.
+* [Rerun](https://github.com/rerun-io/rerun) ⭐ 11,340 | 🐛 1,274 | 🌐 Rust | 📅 2026-08-21 - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time. It lets you debug and understand the internal state and data of your systems with minimal code. Licence: Dual licence under MIT OR Apache-2.0.
+* [Ceres Solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,544 | 🐛 68 | 🌐 C++ | 📅 2026-08-19 - An open source C++ library for modeling and solving large, complicated optimization problems, used by many organizations for bundle adjustment, SLAM, camera calibration and many other robotics-based applications. Licence: BSD-3 Clause.
+* [pinocchio](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,677 | 🐛 111 | 🌐 C++ | 📅 2026-08-11 - a fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. Licence: BSD-2 Clause.
+* [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,646 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-08-23 - a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM (Simultaneous Localization and Mapping), VO (Visual Odometry), and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan. Licence: BSD.
+* [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) ⭐ 3,431 | 🐛 111 | 🌐 C++ | 📅 2026-08-22 - this toolbox brings robotics-specific functionality to Python, and leverages Python's advantages of portability, ubiquity and support, and the capability of the open-source ecosystem for linear algebra (numpy, scipy), graphics (matplotlib, three.js, WebGL), interactive development (jupyter, jupyterlab, mybinder.org), and documentation (sphinx). Licence: MIT.
+* [Open Motion Planning Library](https://github.com/ompl/ompl) ⭐ 2,132 | 🐛 99 | 🌐 C++ | 📅 2026-08-14 - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
 * [Crocoddyl](https://github.com/loco-3d/crocoddyl) ⭐ 1,283 | 🐛 19 | 🌐 C++ | 📅 2026-08-18 - an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms. Licence: BSD 3-Clause.
 * [Robotics Library](https://github.com/roboticslibrary/rl) ⭐ 1,198 | 🐛 54 | 🌐 C++ | 📅 2025-04-15 - Self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control. Licence: BSD-2 Clause.
 * [videoflow](https://github.com/videoflow/videoflow) ⭐ 1,034 | 🐛 17 | 🌐 Python | 📅 2026-07-29 - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. Licence: MIT.
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 870 | 🐛 34 | 🌐 C++ | 📅 2026-08-22 - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 870 | 🐛 35 | 🌐 C++ | 📅 2026-08-23 - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
 * [OpenSHC](https://github.com/csiro-robotics/syropod_highlevel_controller) ⭐ 180 | 🐛 6 | 🌐 C++ | 📅 2021-06-17 - a versatile multilegged robot controller capable of generating body poses and gaits for quasi-static multilegged robots. Licence: CSIRO Open Source Software Licence (variation of BSD / MIT).
 * [EXOTica](https://github.com/ipab-slmc/exotica) ⭐ 163 | 🐛 57 | 🌐 C++ | 📅 2026-08-14 - a general Optimisation Toolset for Robotics platforms, written in C++ with bindings for Python. Its motivation is to provide a more streamlined process for developing algorithms for tasks such as Inverse Kinematics, Trajectory Optimisation, and Optimal Control. Licence: BSD.
 * [Visual Servoing Platform](http://visp.inria.fr/#) - This project is a cross-platform library (Linux, Windows, Mac) that allows prototyping and developing applications using visual tracking and visual servoing technics. Licence: GPLv2.
@@ -124,7 +124,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 * [Cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,947 | 🐛 242 | 🌐 C++ | 📅 2024-01-05 - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,892 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 - A real-time lidar-inertial odometry package with very promising results for multi-beam LiDARS. Licence: BSD-3 Clause.
-* [slam\_toolbox](https://github.com/SteveMacenski/slam_toolbox) ⭐ 2,604 | 🐛 47 | 🌐 C++ | 📅 2026-08-19 - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPL v2.1.
+* [slam\_toolbox](https://github.com/SteveMacenski/slam_toolbox) ⭐ 2,605 | 🐛 47 | 🌐 C++ | 📅 2026-08-19 - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPL v2.1.
 * [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,118 | 🐛 2 | 📅 2021-01-30 - C++ library for real-time metric-semantic simultaneous localization and mapping. Licence: BSD.
 * [xivo](https://github.com/ucla-vision/xivo) ⭐ 891 | 🐛 16 | 🌐 C++ | 📅 2023-02-24 - A library for visual-inertial odometry and mapping. It's free for research and educational applications, a commercial licence is available on request.
 * [hector\_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) ⭐ 741 | 🐛 26 | 🌐 C++ | 📅 2026-06-10 - hector\_slam contains ROS packages related to performing SLAM in unstructured environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition. Licence: BSD.
@@ -136,8 +136,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Simulators
 
-* [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,416 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
-* [Flightmare](https://github.com/uzh-rpg/flightmare) ⭐ 1,403 | 🐛 128 | 🌐 C++ | 📅 2024-06-14 - An Open Flexible Quadrotor Simulator. Licence: MIT.
+* [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,418 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
+* [Flightmare](https://github.com/uzh-rpg/flightmare) ⭐ 1,405 | 🐛 128 | 🌐 C++ | 📅 2024-06-14 - An Open Flexible Quadrotor Simulator. Licence: MIT.
 * [mvsim](https://github.com/MRPT/mvsim) ⭐ 410 | 🐛 6 | 🌐 C++ | 📅 2026-07-17 - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
 * [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 384 | 🐛 6 | 🌐 Python | 📅 2026-08-03 - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
 * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
@@ -150,9 +150,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Middleware
 
-* [DORA](https://github.com/dora-rs/dora) ⭐ 3,892 | 🐛 64 | 🌐 Rust | 📅 2026-08-22 - middleware designed to streamline and simplify the creation of AI-based robotic applications. Licence: Apache 2.0.
+* [DORA](https://github.com/dora-rs/dora) ⭐ 3,893 | 🐛 71 | 🌐 Rust | 📅 2026-08-23 - middleware designed to streamline and simplify the creation of AI-based robotic applications. Licence: Apache 2.0.
 * [Copper](https://github.com/copper-project/copper-rs) ⭐ 1,462 | 🐛 30 | 🌐 Rust | 📅 2026-08-21 - Copper is a user-friendly runtime engine for creating fast and reliable robots. Copper is to robots what a game engine is to games. Licence: Apache 2.0.
-* [YARP](https://github.com/robotology/yarp) ⭐ 602 | 🐛 251 | 🌐 C++ | 📅 2026-08-22 - Yet Another Robot Platform middleware for robotics.
+* [YARP](https://github.com/robotology/yarp) ⭐ 602 | 🐛 251 | 🌐 C++ | 📅 2026-08-23 - Yet Another Robot Platform middleware for robotics.
 * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
 * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 * [Viam](https://www.viam.com/) - Viam is an open source software platform that's modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
@@ -161,18 +161,18 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ### Libraries and Packages
 
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,124 | 🐛 161 | 🌐 C++ | 📅 2026-08-10 - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface. Licence: GPLv3.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,125 | 🐛 161 | 🌐 C++ | 📅 2026-08-10 - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface. Licence: GPLv3.
 * [BehaviourTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,170 | 🐛 56 | 🌐 C++ | 📅 2026-08-14 - Behavior Trees Library in C++. Licence: MIT.
 * [Astrobee Robot Software](https://github.com/nasa/astrobee) ⭐ 1,396 | 🐛 31 | 🌐 C++ | 📅 2025-12-02 - NASA Astrobee Robot Software. Licence: Apache v2.0.
 * [rosshow](https://github.com/dheera/rosshow) ⭐ 1,145 | 🐛 6 | 🌐 Python | 📅 2025-12-29 - Visualize ROS topics inside a terminal with Unicode/ASCII art. Licence: BSD 3-Clause.
 * [Quad-SDK](https://github.com/robomechanics/quad-sdk) ⭐ 968 | 🐛 5 | 🌐 C++ | 📅 2026-08-19 - ROS-based framework for agile quadrupedal locomotion. Licence: MIT.
 * [Allan Variance ROS](https://github.com/ori-drs/allan_variance_ros) ⭐ 678 | 🐛 20 | 🌐 C++ | 📅 2025-01-23 - ROS package which loads a rosbag of IMU data and computes Allan Variance parameters. Licence: BSD 3-Clause.
-* [Wavemap](https://github.com/ethz-asl/wavemap) ⭐ 568 | 🐛 12 | 🌐 C++ | 📅 2024-12-30 - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping. Licence: BSD 3-Clause.
+* [Wavemap](https://github.com/ethz-asl/wavemap) ⭐ 569 | 🐛 12 | 🌐 C++ | 📅 2024-12-30 - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping. Licence: BSD 3-Clause.
 * [Voxgraph](https://github.com/ethz-asl/voxgraph) ⭐ 552 | 🐛 16 | 🌐 C++ | 📅 2022-05-06 - Globally consistent volumetric mapping framework. It represents the world as a collection of Signed Distance Function submaps, which it aligns through pose graph optimization. Licence: BSD 2-Clause.
 * [Aerostack2](https://github.com/aerostack2/aerostack2) ⭐ 376 | 🐛 72 | 🌐 C++ | 📅 2026-08-19 - framework that helps developers design and build the control architecture of aerial robotic systems. Licence: BSD 3-Clause.
 * [SMACC](https://github.com/reelrbtx/SMACC) ⭐ 325 | 🐛 9 | 🌐 C++ | 📅 2023-04-24 - an event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++. Licence: BSD 3-Clause.
 * [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 316 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - ROS 2 UKF sensor fusion for IMU, wheel encoders and GPS. 22-state filter with ECEF-native GPS handling, automatic IMU bias estimation, adaptive noise covariance and chi-squared outlier rejection on every sensor. Benchmarked against robot\_localization EKF on 6 NCLT public dataset sequences. Licence: Apache 2.0.
-* [ros2\_medkit](https://github.com/selfpatch/ros2_medkit) ⭐ 252 | 🐛 68 | 🌐 C++ | 📅 2026-08-22 - Structured fault management for ROS 2 — persistent fault lifecycle, REST/SSE API, root cause correlation, and automatic rosbag capture on fault. Inspired by SOVD (Service-Oriented Vehicle Diagnostics), the ASAM standard that brings HTTP/REST diagnostics to automotive and robotics. Licence: Apache 2.0.
+* [ros2\_medkit](https://github.com/selfpatch/ros2_medkit) ⭐ 252 | 🐛 68 | 🌐 C++ | 📅 2026-08-23 - Structured fault management for ROS 2 — persistent fault lifecycle, REST/SSE API, root cause correlation, and automatic rosbag capture on fault. Inspired by SOVD (Service-Oriented Vehicle Diagnostics), the ASAM standard that brings HTTP/REST diagnostics to automotive and robotics. Licence: Apache 2.0.
 * [race\_stack](https://github.com/ForzaETH/race_stack) ⭐ 172 | 🐛 2 | 🌐 Python | 📅 2026-07-29 - full stack for F1TENTH autonomous scaled cars based on ROS 1. Licence: MIT.
 * [vector\_ros](https://github.com/betab0t/vector_ros) ⭐ 85 | 🐛 0 | 🌐 CMake | 📅 2019-06-19 - ROS package for Anki Vector home robot. Licence: GPLv3.0.
 * [ROS 2 Benchmark Container](https://github.com/irobot-ros/ros2-benchmark-container) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2026-01-29 - A Dockerized performance benchmarking suite for ROS 2 that automates testing, comparative analysis, and report generation across multiple RMW implementations and system topologies. Licence: BSD 3-Clause.
@@ -200,7 +200,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Motor Control
 
-* [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware) ⭐ 1,085 | 🐛 9 | 🌐 Verilog | 📅 2022-05-13, [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md) ⭐ 3,738 | 🐛 18 | 🌐 C++ | 📅 2026-01-20).
+* [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware) ⭐ 1,085 | 🐛 9 | 🌐 Verilog | 📅 2022-05-13, [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md) ⭐ 3,739 | 🐛 18 | 🌐 C++ | 📅 2026-01-20).
 * [STMBL](https://github.com/rene-dev/stmbl) ⭐ 976 | 🐛 19 | 🌐 C | 📅 2023-08-23 - AC Servo Driver for STM32F4. Licence: GPLv3.
 * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
 * [SimpleFOC](https://simplefoc.com/) - Arduino Compatible Open Source Field Oriented Control (FOC) project. Licence: MIT.
@@ -211,10 +211,10 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Books and Courses
 
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,348 | 🐛 50 | 🌐 Python | 📅 2026-08-17 - Python sample codes for robotics algorithms. Licence: MIT.
-* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,211 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2024-08-07 - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters, extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. Licence: CC.
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,351 | 🐛 50 | 🌐 Python | 📅 2026-08-17 - Python sample codes for robotics algorithms. Licence: MIT.
+* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,214 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2024-08-07 - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters, extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. Licence: CC.
 * [A Machine Learning Course with Python](https://github.com/instillai/machine-learning-course/tree/master) ⭐ 7,043 | 🐛 1 | 🌐 Python | 📅 2024-11-27 - Freely available Machine Learning course using Python developed by [Machine Learning Mindset](https://www.machinelearningmindset.com/blog/).
-* [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,861 | 🐛 1 | 📅 2022-03-21 - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
+* [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,864 | 🐛 1 | 📅 2022-03-21 - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
 * [SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf)\[PDF] - Introductory document to SLAM and Extended Kalman Filter. Comes with example C++ implementation source code.
 * [Practical Deep Learning for Coders](https://course.fast.ai/index.html) - Free course on neural networks from [fast.ai](https://www.fast.ai/). Currently it contains 14 lessons.
 * [Calibration Desk Reference](https://www.tangramvision.com/resources/calibration-desk-reference) - an 80 page long document on sensor calibration from Tangram Vision with a direct download link on the website.
@@ -247,16 +247,16 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Awesome Robotics Lists
 
-* [kiloreux](https://github.com/kiloreux/awesome-robotics) ⭐ 6,973 | 🐛 37 | 📅 2024-09-22
+* [kiloreux](https://github.com/kiloreux/awesome-robotics) ⭐ 6,977 | 🐛 37 | 📅 2024-09-22
 * [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,455 | 🐛 10 | 📅 2026-07-17
 * [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,884 | 🐛 13 | 📅 2023-11-20
-* [jslee02](https://github.com/jslee02/awesome-robotics-libraries/blob/master/README.md) ⭐ 3,023 | 🐛 14 | 🌐 Python | 📅 2026-08-06
+* [jslee02](https://github.com/jslee02/awesome-robotics-libraries/blob/master/README.md) ⭐ 3,025 | 🐛 14 | 🌐 Python | 📅 2026-08-06
 * [Awesome ROS 2](https://github.com/fkromer/awesome-ros2#readme) ⚠️ Archived
-* [Awesome Robotics Projects](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,733 | 🐛 7 | 📅 2026-02-13
+* [Awesome Robotics Projects](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,734 | 🐛 7 | 📅 2026-02-13
 * [ahundt](https://github.com/ahundt/awesome-robotics) ⭐ 1,478 | 🐛 8 | 📅 2024-01-10
-* [Best of Robot Simulators](https://github.com/knmcguire/best-of-robot-simulators) ⭐ 1,435 | 🐛 19 | 📅 2026-08-19
+* [Best of Robot Simulators](https://github.com/knmcguire/best-of-robot-simulators) ⭐ 1,437 | 🐛 19 | 📅 2026-08-19
 * [Awesome Cloud Robotics](https://github.com/Airbotics/awesome-cloud-robotics) ⭐ 135 | 🐛 2 | 📅 2023-10-24
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
