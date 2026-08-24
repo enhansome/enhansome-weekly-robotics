@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9599
+                "stars": 9601
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T21:43:25Z",
                 "owner": "autorope",
                 "repo": "donkeycar",
-                "stars": 3495
+                "stars": 3496
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 283999274,
                 "language": "Swift",
-                "last_commit": "2026-08-22T20:04:20Z",
+                "last_commit": "2026-08-24T08:05:11Z",
                 "owner": "ob-f",
                 "repo": "OpenBot",
-                "stars": 3424
+                "stars": 3431
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2025-10-04T21:51:01Z",
                 "owner": "makerspet",
                 "repo": "makerspet_loki",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-05T09:21:21Z",
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7174
+                "stars": 7179
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2025-12-28T18:54:32Z",
                 "owner": "Source-Robotics",
                 "repo": "Faze4-Robotic-arm",
-                "stars": 890
+                "stars": 891
               }
             },
             {
@@ -261,9 +261,9 @@
                 "archived": false,
                 "id": 740506788,
                 "language": null,
-                "last_commit": "2026-08-21T18:18:39Z",
+                "last_commit": "2026-08-24T10:34:59Z",
                 "owner": "almtzr",
-                "repo": "Pedro",
+                "repo": "Pedro3DFiles",
                 "stars": 156
               }
             }
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 1101481970,
                 "language": "C",
-                "last_commit": "2026-08-14T21:43:01Z",
+                "last_commit": "2026-08-23T23:44:13Z",
                 "owner": "dorianborian",
                 "repo": "sesame-robot",
-                "stars": 4078
+                "stars": 4101
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-04T15:45:21Z",
                 "owner": "mjbots",
                 "repo": "moteus",
-                "stars": 1263
+                "stars": 1267
               }
             }
           ],
@@ -353,7 +353,7 @@
                 "last_commit": "2026-01-31T10:28:29Z",
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3511
+                "stars": 3512
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2021-12-06T18:19:35Z",
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
-                "stars": 1046
+                "stars": 1047
               }
             }
           ],
@@ -378,6 +378,48 @@
         }
       ],
       "title": "Open Source Robots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bam",
+          "description": "A handy tool for characterizing actuator friction for better modeling for simulations. Licence: MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777755683,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:39:48Z",
+            "owner": "Rhoban",
+            "repo": "bam",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Actuators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open MCT",
+          "description": "Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36753839,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T11:54:33Z",
+            "owner": "nasa",
+            "repo": "openmct",
+            "stars": 13091
+          }
+        }
+      ],
+      "title": "Graphical User Interfaces"
     },
     {
       "description": null,
@@ -394,7 +436,7 @@
             "last_commit": "2022-02-04T20:34:14Z",
             "owner": "maxvfischer",
             "repo": "DIY-CNC-machine",
-            "stars": 2004
+            "stars": 2010
           }
         },
         {
@@ -445,7 +487,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54743
+            "stars": 54754
           }
         },
         {
@@ -460,7 +502,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34386
+            "stars": 34390
           }
         },
         {
@@ -472,10 +514,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-23T21:02:20Z",
+            "last_commit": "2026-08-24T09:58:23Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26851
+            "stars": 26871
           }
         },
         {
@@ -487,10 +529,10 @@
             "archived": false,
             "id": 299832860,
             "language": "Go",
-            "last_commit": "2026-08-22T19:32:34Z",
+            "last_commit": "2026-08-24T05:28:09Z",
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 20490
+            "stars": 20502
           }
         },
         {
@@ -505,7 +547,7 @@
             "last_commit": "2026-08-23T05:12:21Z",
             "owner": "isl-org",
             "repo": "Open3D",
-            "stars": 13908
+            "stars": 13909
           }
         },
         {
@@ -517,10 +559,10 @@
             "archived": false,
             "id": 479289739,
             "language": "Rust",
-            "last_commit": "2026-08-21T21:13:26Z",
+            "last_commit": "2026-08-24T13:58:14Z",
             "owner": "rerun-io",
             "repo": "rerun",
-            "stars": 11340
+            "stars": 11341
           }
         },
         {
@@ -550,7 +592,7 @@
             "last_commit": "2026-08-11T13:06:15Z",
             "owner": "stack-of-tasks",
             "repo": "pinocchio",
-            "stars": 3677
+            "stars": 3678
           }
         },
         {
@@ -562,10 +604,10 @@
             "archived": false,
             "id": 86362856,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T21:37:09Z",
+            "last_commit": "2026-08-24T04:18:41Z",
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3646
+            "stars": 3649
           }
         },
         {
@@ -580,7 +622,7 @@
             "last_commit": "2026-08-22T23:28:21Z",
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3431
+            "stars": 3436
           }
         },
         {
@@ -595,7 +637,7 @@
             "last_commit": "2026-08-14T19:42:33Z",
             "owner": "ompl",
             "repo": "ompl",
-            "stars": 2132
+            "stars": 2133
           }
         },
         {
@@ -610,7 +652,7 @@
             "last_commit": "2026-08-18T08:23:51Z",
             "owner": "loco-3d",
             "repo": "crocoddyl",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -655,7 +697,7 @@
             "last_commit": "2026-08-23T16:21:12Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -732,7 +774,7 @@
                 "last_commit": "2026-08-19T15:11:12Z",
                 "owner": "SteveMacenski",
                 "repo": "slam_toolbox",
-                "stars": 2605
+                "stars": 2606
               }
             },
             {
@@ -762,7 +804,7 @@
                 "last_commit": "2023-02-24T21:57:05Z",
                 "owner": "ucla-vision",
                 "repo": "xivo",
-                "stars": 891
+                "stars": 890
               }
             },
             {
@@ -881,10 +923,10 @@
             "archived": false,
             "id": 460615268,
             "language": "Rust",
-            "last_commit": "2026-08-23T03:25:03Z",
+            "last_commit": "2026-08-24T03:15:46Z",
             "owner": "dora-rs",
             "repo": "dora",
-            "stars": 3893
+            "stars": 3894
           }
         },
         {
@@ -896,7 +938,7 @@
             "archived": false,
             "id": 290790298,
             "language": "Rust",
-            "last_commit": "2026-08-21T21:38:02Z",
+            "last_commit": "2026-08-24T14:04:16Z",
             "owner": "copper-project",
             "repo": "copper-rs",
             "stars": 1462
@@ -911,7 +953,7 @@
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-23T14:55:06Z",
+            "last_commit": "2026-08-24T11:52:37Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
@@ -1042,7 +1084,7 @@
                 "last_commit": "2022-05-06T21:58:18Z",
                 "owner": "ethz-asl",
                 "repo": "voxgraph",
-                "stars": 552
+                "stars": 553
               }
             },
             {
@@ -1099,7 +1141,7 @@
                 "archived": false,
                 "id": 1098436077,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:09:07Z",
+                "last_commit": "2026-08-24T13:40:34Z",
                 "owner": "selfpatch",
                 "repo": "ros2_medkit",
                 "stars": 252
@@ -1189,6 +1231,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "rpg_quadrotor_control",
+              "description": "A complete framework for flying quadrotors based on control algorithms developed by the Robotics and Perception Group at University of Zurich.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114392520,
+                "language": "C++",
+                "last_commit": "2021-09-20T15:15:49Z",
+                "owner": "uzh-rpg",
+                "repo": "rpg_quadrotor_control",
+                "stars": 727
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Drones"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Webviz",
               "description": "A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0.",
               "children": [],
@@ -1211,7 +1275,7 @@
                 "archived": false,
                 "id": 8788861,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:26:39Z",
+                "last_commit": "2026-08-24T10:00:07Z",
                 "owner": "RobotWebTools",
                 "repo": "roslibjs",
                 "stars": 827
@@ -1321,7 +1385,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30351
+            "stars": 30355
           }
         },
         {
@@ -1336,7 +1400,7 @@
             "last_commit": "2024-08-07T13:19:15Z",
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19214
+            "stars": 19213
           }
         },
         {
@@ -1351,7 +1415,7 @@
             "last_commit": "2024-11-27T03:47:57Z",
             "owner": "instillai",
             "repo": "machine-learning-course",
-            "stars": 7043
+            "stars": 7042
           }
         },
         {
@@ -1387,7 +1451,7 @@
             "last_commit": "2026-07-11T08:05:14Z",
             "owner": "vmayoral",
             "repo": "ros-robotics-companies",
-            "stars": 1888
+            "stars": 1887
           }
         },
         {
@@ -1423,7 +1487,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6977
+            "stars": 6978
           }
         },
         {
@@ -1453,7 +1517,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -1528,7 +1592,7 @@
             "last_commit": "2026-08-19T10:32:20Z",
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1437
+            "stars": 1441
           }
         },
         {
@@ -1551,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:17.742Z",
+    "last_updated": "2026-08-24T14:15:09.818Z",
     "original_repository": "msadowski/awesome-weekly-robotics",
     "original_repository_id": 190376150,
     "original_repository_sha": "b2d09f0054278d1e5a0859fb718056a85f4d886d",
