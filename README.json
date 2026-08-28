@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9611
-              }
+                "stars": 9612
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-14T20:49:36Z",
                 "owner": "ClemensElflein",
                 "repo": "OpenMower",
-                "stars": 6683
-              }
+                "stars": 6684
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-22T21:43:25Z",
                 "owner": "autorope",
                 "repo": "donkeycar",
-                "stars": 3494
-              }
+                "stars": 3495
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-26T04:41:41Z",
                 "owner": "ob-f",
                 "repo": "OpenBot",
-                "stars": 3445
-              }
+                "stars": 3449
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
                 "stars": 1393
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "linorobot",
                 "repo": "linorobot",
                 "stars": 1111
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "jakkra",
                 "repo": "Mars-Rover",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Roger-random",
                 "repo": "Sawppy_Rover",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "prl-mushr",
                 "repo": "mushr",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "scuttlerobot",
                 "repo": "SCUTTLE",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "makerspet",
                 "repo": "makerspet_loki",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "roaldlemmens",
                 "repo": "morph",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -204,8 +216,9 @@
                 "last_commit": "2026-08-05T09:21:21Z",
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7207
-              }
+                "stars": 7216
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "Source-Robotics",
                 "repo": "Faze4-Robotic-arm",
                 "stars": 893
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "HaddingtonDynamics",
                 "repo": "Dexter",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "pollen-robotics",
                 "repo": "reachy-2019",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "almtzr",
                 "repo": "Pedro3DFiles",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -286,8 +303,9 @@
                 "last_commit": "2026-08-23T23:44:13Z",
                 "owner": "dorianborian",
                 "repo": "sesame-robot",
-                "stars": 4172
-              }
+                "stars": 4191
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -301,8 +319,9 @@
                 "last_commit": "2024-07-08T02:08:11Z",
                 "owner": "Nate711",
                 "repo": "StanfordDoggoProject",
-                "stars": 2551
-              }
+                "stars": 2553
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "stanfordroboticsclub",
                 "repo": "StanfordQuadruped",
                 "stars": 1783
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "mjbots",
                 "repo": "moteus",
                 "stars": 1272
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -353,8 +374,9 @@
                 "last_commit": "2026-01-31T10:28:29Z",
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 3523
-              }
+                "stars": 3551
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "poppy-project",
                 "repo": "poppy-humanoid",
                 "stars": 1050
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -391,11 +414,12 @@
             "archived": false,
             "id": 777755683,
             "language": "Python",
-            "last_commit": "2026-08-26T19:56:12Z",
+            "last_commit": "2026-08-27T20:40:42Z",
             "owner": "Rhoban",
             "repo": "bam",
-            "stars": 257
-          }
+            "stars": 292
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Actuators"
@@ -416,7 +440,8 @@
             "owner": "nasa",
             "repo": "openmct",
             "stars": 13095
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Graphical User Interfaces"
@@ -437,7 +462,8 @@
             "owner": "maxvfischer",
             "repo": "DIY-CNC-machine",
             "stars": 2025
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -452,7 +478,8 @@
             "owner": "marian42",
             "repo": "pointcloudprinter",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -467,7 +494,8 @@
             "owner": "mawildoer",
             "repo": "cycloidal_generator",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Machining and 3D Printing"
@@ -487,8 +515,9 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54766
-          }
+            "stars": 54770
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -502,8 +531,9 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
-          }
+            "stars": 34418
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -514,11 +544,12 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-27T05:18:07Z",
+            "last_commit": "2026-08-28T06:13:58Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26973
-          }
+            "stars": 26997
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -529,11 +560,12 @@
             "archived": false,
             "id": 299832860,
             "language": "Go",
-            "last_commit": "2026-08-27T06:55:01Z",
+            "last_commit": "2026-08-28T05:12:15Z",
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 20539
-          }
+            "stars": 20549
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -544,11 +576,12 @@
             "archived": false,
             "id": 75413130,
             "language": "C++",
-            "last_commit": "2026-08-27T06:32:17Z",
+            "last_commit": "2026-08-28T06:32:13Z",
             "owner": "isl-org",
             "repo": "Open3D",
-            "stars": 13917
-          }
+            "stars": 13919
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -559,11 +592,12 @@
             "archived": false,
             "id": 479289739,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:08:23Z",
+            "last_commit": "2026-08-28T00:25:48Z",
             "owner": "rerun-io",
             "repo": "rerun",
             "stars": 11363
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -578,7 +612,8 @@
             "owner": "ceres-solver",
             "repo": "ceres-solver",
             "stars": 4547
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -589,11 +624,12 @@
             "archived": false,
             "id": 24897645,
             "language": "C++",
-            "last_commit": "2026-08-26T23:45:22Z",
+            "last_commit": "2026-08-27T23:50:44Z",
             "owner": "stack-of-tasks",
             "repo": "pinocchio",
-            "stars": 3685
-          }
+            "stars": 3688
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -604,11 +640,12 @@
             "archived": false,
             "id": 86362856,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T15:04:13Z",
+            "last_commit": "2026-08-28T03:53:41Z",
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3657
-          }
+            "stars": 3658
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -619,11 +656,12 @@
             "archived": false,
             "id": 33467565,
             "language": "C++",
-            "last_commit": "2026-08-26T12:29:18Z",
+            "last_commit": "2026-08-27T12:38:20Z",
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3458
-          }
+            "stars": 3460
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -637,8 +675,9 @@
             "last_commit": "2026-08-26T03:02:37Z",
             "owner": "ompl",
             "repo": "ompl",
-            "stars": 2134
-          }
+            "stars": 2133
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -652,8 +691,9 @@
             "last_commit": "2026-08-26T12:32:11Z",
             "owner": "loco-3d",
             "repo": "crocoddyl",
-            "stars": 1287
-          }
+            "stars": 1288
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -668,7 +708,8 @@
             "owner": "roboticslibrary",
             "repo": "rl",
             "stars": 1199
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -683,7 +724,8 @@
             "owner": "videoflow",
             "repo": "videoflow",
             "stars": 1034
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -698,7 +740,8 @@
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -713,7 +756,8 @@
             "owner": "csiro-robotics",
             "repo": "syropod_highlevel_controller",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -728,7 +772,8 @@
             "owner": "ipab-slmc",
             "repo": "exotica",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "children": [
@@ -744,8 +789,9 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7949
-              }
+                "stars": 7950
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -759,8 +805,9 @@
                 "last_commit": "2025-02-14T10:05:51Z",
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4895
-              }
+                "stars": 4898
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -774,8 +821,9 @@
                 "last_commit": "2026-08-19T15:11:12Z",
                 "owner": "SteveMacenski",
                 "repo": "slam_toolbox",
-                "stars": 2609
-              }
+                "stars": 2610
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -790,7 +838,8 @@
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
                 "stars": 2119
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -805,7 +854,8 @@
                 "owner": "ucla-vision",
                 "repo": "xivo",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -820,7 +870,8 @@
                 "owner": "tu-darmstadt-ros-pkg",
                 "repo": "hector_slam",
                 "stars": 741
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -835,7 +886,8 @@
                 "owner": "iris-ua",
                 "repo": "iris_lama",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -860,8 +912,9 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18425
-          }
+            "stars": 18426
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -876,7 +929,8 @@
             "owner": "uzh-rpg",
             "repo": "flightmare",
             "stars": 1406
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -891,7 +945,8 @@
             "owner": "MRPT",
             "repo": "mvsim",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -906,7 +961,8 @@
             "owner": "sea-bass",
             "repo": "pyrobosim",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Simulators"
@@ -923,11 +979,12 @@
             "archived": false,
             "id": 460615268,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:56:52Z",
+            "last_commit": "2026-08-28T00:02:35Z",
             "owner": "dora-rs",
             "repo": "dora",
-            "stars": 3902
-          }
+            "stars": 3904
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -938,11 +995,12 @@
             "archived": false,
             "id": 290790298,
             "language": "Rust",
-            "last_commit": "2026-08-26T17:28:03Z",
+            "last_commit": "2026-08-27T15:35:27Z",
             "owner": "copper-project",
             "repo": "copper-rs",
-            "stars": 1468
-          }
+            "stars": 1469
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -953,11 +1011,12 @@
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-27T10:03:42Z",
+            "last_commit": "2026-08-27T19:04:49Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Middleware"
@@ -979,8 +1038,9 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6129
-              }
+                "stars": 6131
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1055,8 @@
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4174
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1009,8 +1070,9 @@
                 "last_commit": "2025-12-02T17:42:45Z",
                 "owner": "nasa",
                 "repo": "astrobee",
-                "stars": 1397
-              }
+                "stars": 1399
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1087,8 @@
                 "owner": "dheera",
                 "repo": "rosshow",
                 "stars": 1145
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1103,8 @@
                 "owner": "robomechanics",
                 "repo": "quad-sdk",
                 "stars": 968
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1119,8 @@
                 "owner": "ori-drs",
                 "repo": "allan_variance_ros",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1135,8 @@
                 "owner": "ethz-asl",
                 "repo": "wavemap",
                 "stars": 570
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1151,8 @@
                 "owner": "ethz-asl",
                 "repo": "voxgraph",
                 "stars": 553
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1167,8 @@
                 "owner": "aerostack2",
                 "repo": "aerostack2",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1115,7 +1183,8 @@
                 "owner": "robosoft-ai",
                 "repo": "SMACC",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1130,7 +1199,8 @@
                 "owner": "manankharwar",
                 "repo": "fusioncore",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1141,11 +1211,12 @@
                 "archived": false,
                 "id": 1098436077,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:29:32Z",
+                "last_commit": "2026-08-27T20:28:12Z",
                 "owner": "selfpatch",
                 "repo": "ros2_medkit",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1160,7 +1231,8 @@
                 "owner": "ForzaETH",
                 "repo": "race_stack",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1175,7 +1247,8 @@
                 "owner": "betab0t",
                 "repo": "vector_ros",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1190,7 +1263,8 @@
                 "owner": "irobot-ros",
                 "repo": "ros2-benchmark-container",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1205,7 +1279,8 @@
                 "owner": "S2-group",
                 "repo": "robot-runner",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1220,7 +1295,8 @@
                 "owner": "IsabelParedes",
                 "repo": "jupyterlab-urdf",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -1242,7 +1318,8 @@
                 "owner": "uzh-rpg",
                 "repo": "rpg_quadrotor_control",
                 "stars": 727
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -1264,7 +1341,8 @@
                 "owner": "cruise-automation",
                 "repo": "webviz",
                 "stars": 2329
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1279,7 +1357,8 @@
                 "owner": "RobotWebTools",
                 "repo": "roslibjs",
                 "stars": 827
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1373,8 @@
                 "owner": "RobotWebTools",
                 "repo": "web_video_server",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1305,11 +1385,12 @@
                 "archived": false,
                 "id": 539711519,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T00:00:52Z",
+                "last_commit": "2026-08-27T18:23:06Z",
                 "owner": "transitiverobotics",
                 "repo": "transitive",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             },
             {
               "node_type": "item",
@@ -1324,7 +1405,8 @@
                 "owner": "transitiverobotics",
                 "repo": "transact",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T06:55:27.282Z"
             }
           ],
           "description": null,
@@ -1350,7 +1432,8 @@
             "owner": "odriverobotics",
             "repo": "ODriveHardware",
             "stars": 1086
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1365,7 +1448,8 @@
             "owner": "rene-dev",
             "repo": "stmbl",
             "stars": 977
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Motor Control"
@@ -1385,8 +1469,9 @@
             "last_commit": "2026-08-24T20:02:57Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30393
-          }
+            "stars": 30400
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1401,7 +1486,8 @@
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
             "stars": 19222
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1415,8 +1501,9 @@
             "last_commit": "2024-11-27T03:47:57Z",
             "owner": "instillai",
             "repo": "machine-learning-course",
-            "stars": 7044
-          }
+            "stars": 7045
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1430,8 +1517,9 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2874
-          }
+            "stars": 2914
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Books and Courses"
@@ -1452,7 +1540,8 @@
             "owner": "vmayoral",
             "repo": "ros-robotics-companies",
             "stars": 1886
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1467,7 +1556,8 @@
             "owner": "JohnDTill",
             "repo": "ContinuumRobotExamples",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Other"
@@ -1487,8 +1577,9 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6983
-          }
+            "stars": 6986
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1502,8 +1593,9 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4457
-          }
+            "stars": 4458
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1517,8 +1609,9 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3883
-          }
+            "stars": 3884
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1533,7 +1626,8 @@
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
             "stars": 3027
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1548,7 +1642,8 @@
             "owner": "fkromer",
             "repo": "awesome-ros2",
             "stars": 2132
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1562,8 +1657,9 @@
             "last_commit": "2026-02-13T01:40:21Z",
             "owner": "mjyc",
             "repo": "awesome-robotics-projects",
-            "stars": 1738
-          }
+            "stars": 1740
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1577,8 +1673,9 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1479
-          }
+            "stars": 1480
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1592,8 +1689,9 @@
             "last_commit": "2026-08-26T10:38:19Z",
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1448
-          }
+            "stars": 1449
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         },
         {
           "node_type": "item",
@@ -1608,14 +1706,15 @@
             "owner": "Airbotics",
             "repo": "awesome-cloud-robotics",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:55:27.282Z"
         }
       ],
       "title": "Awesome Robotics Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:10.603Z",
+    "last_updated": "2026-08-28T06:55:27.282Z",
     "original_repository_info": {
       "archived": false,
       "id": 190376150,
