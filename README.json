@@ -83,7 +83,7 @@
                 "open_issues": 34,
                 "owner": "ob-f",
                 "repo": "OpenBot",
-                "stars": 3516,
+                "stars": 3515,
                 "topics": [
                   "android",
                   "arduino",
@@ -387,7 +387,7 @@
                 "open_issues": 88,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7641,
+                "stars": 7643,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:27.282Z"
@@ -513,7 +513,7 @@
                 "open_issues": 17,
                 "owner": "dorianborian",
                 "repo": "sesame-robot",
-                "stars": 4547,
+                "stars": 4548,
                 "topics": [
                   "hardware",
                   "robotics",
@@ -708,7 +708,7 @@
             "open_issues": 1091,
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13147,
+            "stars": 13148,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -871,11 +871,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:05:43Z",
+            "last_commit": "2026-10-03T03:50:16Z",
             "open_issues": 976,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27911,
+            "stars": 27913,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -896,7 +896,7 @@
             "open_issues": 192,
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 21253,
+            "stars": 21254,
             "topics": [
               "golang",
               "media-server",
@@ -967,7 +967,7 @@
             "open_issues": 1254,
             "owner": "rerun-io",
             "repo": "rerun",
-            "stars": 11535,
+            "stars": 11536,
             "topics": [
               "computer-vision",
               "cpp",
@@ -1532,7 +1532,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18532,
+            "stars": 18531,
             "topics": [
               "ai",
               "airsim",
@@ -1651,8 +1651,8 @@
             "id": 460615268,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:33:35Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-03T03:30:16Z",
+            "open_issues": 71,
             "owner": "dora-rs",
             "repo": "dora",
             "stars": 3991,
@@ -2429,8 +2429,8 @@
             "id": 54376220,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:40:49Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-03T04:31:04Z",
+            "open_issues": 59,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
             "stars": 30621,
@@ -2471,7 +2471,7 @@
             "open_issues": 144,
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19395,
+            "stars": 19396,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -2591,7 +2591,7 @@
         {
           "node_type": "item",
           "title": "kiloreux",
-          "description": null,
+          "description": "kiloreux/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2614,7 +2614,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LLM-Robotics",
-          "description": null,
+          "description": "GT-RIPL/Awesome-LLM-Robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2635,7 +2635,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotic Tooling",
-          "description": null,
+          "description": "Ly0n/awesome-robotic-tooling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2677,7 +2677,7 @@
         {
           "node_type": "item",
           "title": "jslee02",
-          "description": null,
+          "description": "jslee02/awesome-robotics-libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2711,7 +2711,7 @@
         {
           "node_type": "item",
           "title": "Awesome ROS 2",
-          "description": null,
+          "description": "fkromer/awesome-ros2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2736,7 +2736,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics Projects",
-          "description": null,
+          "description": "mjyc/awesome-robotics-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2761,7 +2761,7 @@
         {
           "node_type": "item",
           "title": "ahundt",
-          "description": null,
+          "description": "ahundt/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2803,7 +2803,7 @@
         {
           "node_type": "item",
           "title": "Best of Robot Simulators",
-          "description": null,
+          "description": "knmcguire/best-of-robot-simulators",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2824,7 +2824,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cloud Robotics",
-          "description": null,
+          "description": "Airbotics/awesome-cloud-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2854,7 +2854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:55:21.878Z",
+    "last_updated": "2026-10-03T05:13:28.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects that were or will be featured in Weekly Robotics newsletter",
