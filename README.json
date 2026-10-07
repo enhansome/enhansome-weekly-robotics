@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9684,
+                "stars": 9685,
                 "topics": [
                   "diy",
                   "hardware",
@@ -47,10 +47,10 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T16:09:15Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "ClemensElflein",
                 "repo": "OpenMower",
-                "stars": 6721,
+                "stars": 6722,
                 "topics": [
                   "arduino",
                   "gps",
@@ -83,7 +83,7 @@
                 "open_issues": 34,
                 "owner": "ob-f",
                 "repo": "OpenBot",
-                "stars": 3519,
+                "stars": 3520,
                 "topics": [
                   "android",
                   "arduino",
@@ -387,7 +387,7 @@
                 "open_issues": 87,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7670,
+                "stars": 7676,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:27.282Z"
@@ -408,7 +408,7 @@
                 "open_issues": 0,
                 "owner": "Source-Robotics",
                 "repo": "Faze4-Robotic-arm",
-                "stars": 904,
+                "stars": 903,
                 "topics": [
                   "robot",
                   "robotics"
@@ -513,7 +513,7 @@
                 "open_issues": 22,
                 "owner": "dorianborian",
                 "repo": "sesame-robot",
-                "stars": 4561,
+                "stars": 4565,
                 "topics": [
                   "hardware",
                   "robotics",
@@ -588,7 +588,7 @@
                 "open_issues": 2,
                 "owner": "mjbots",
                 "repo": "moteus",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:27.282Z"
@@ -616,7 +616,7 @@
                 "open_issues": 31,
                 "owner": "apirrone",
                 "repo": "Open_Duck_Mini",
-                "stars": 4205,
+                "stars": 4208,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:27.282Z"
@@ -673,7 +673,7 @@
             "open_issues": 12,
             "owner": "Rhoban",
             "repo": "bam",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "actuator",
               "friction",
@@ -704,11 +704,11 @@
             "id": 36753839,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T23:45:28Z",
-            "open_issues": 1091,
+            "last_commit": "2026-10-07T01:53:27Z",
+            "open_issues": 1090,
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13152,
+            "stars": 13153,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -812,7 +812,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54965,
+            "stars": 54964,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -833,7 +833,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34482,
+            "stars": 34483,
             "topics": [
               "caffe",
               "computer-vision",
@@ -871,11 +871,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:39:47Z",
-            "open_issues": 988,
+            "last_commit": "2026-10-06T22:43:49Z",
+            "open_issues": 987,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27963,
+            "stars": 27970,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -892,11 +892,11 @@
             "id": 299832860,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:48:22Z",
+            "last_commit": "2026-10-06T14:16:24Z",
             "open_issues": 190,
             "owner": "livekit",
             "repo": "livekit",
-            "stars": 21299,
+            "stars": 21308,
             "topics": [
               "golang",
               "media-server",
@@ -925,7 +925,7 @@
             "open_issues": 1350,
             "owner": "isl-org",
             "repo": "Open3D",
-            "stars": 14037,
+            "stars": 14040,
             "topics": [
               "3d",
               "3d-perception",
@@ -963,11 +963,11 @@
             "id": 479289739,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:58:55Z",
-            "open_issues": 1250,
+            "last_commit": "2026-10-06T21:07:46Z",
+            "open_issues": 1249,
             "owner": "rerun-io",
             "repo": "rerun",
-            "stars": 11549,
+            "stars": 11551,
             "topics": [
               "computer-vision",
               "cpp",
@@ -1032,7 +1032,7 @@
             "open_issues": 105,
             "owner": "stack-of-tasks",
             "repo": "pinocchio",
-            "stars": 3779,
+            "stars": 3782,
             "topics": [
               "analytical-derivatives",
               "automatic-differentiation",
@@ -1067,11 +1067,11 @@
             "id": 86362856,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:03:27Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-06T23:08:14Z",
+            "open_issues": 11,
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3729,
+            "stars": 3730,
             "topics": [
               "estimation",
               "perception",
@@ -1097,7 +1097,7 @@
             "open_issues": 40,
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3512,
+            "stars": 3513,
             "topics": [
               "dynamics",
               "hessian",
@@ -1131,7 +1131,7 @@
             "open_issues": 104,
             "owner": "ompl",
             "repo": "ompl",
-            "stars": 2165,
+            "stars": 2166,
             "topics": [
               "motion-planning",
               "robotics"
@@ -1248,7 +1248,7 @@
             "open_issues": 30,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -1337,7 +1337,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7980,
+                "stars": 7983,
                 "topics": [
                   "localization",
                   "mapping",
@@ -1417,7 +1417,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2133,
+                "stars": 2134,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -1532,7 +1532,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18536,
+            "stars": 18535,
             "topics": [
               "ai",
               "airsim",
@@ -1571,7 +1571,7 @@
             "open_issues": 128,
             "owner": "uzh-rpg",
             "repo": "flightmare",
-            "stars": 1428,
+            "stars": 1429,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -1588,7 +1588,7 @@
             "id": 22798093,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T08:21:22Z",
+            "last_commit": "2026-10-06T22:43:01Z",
             "open_issues": 5,
             "owner": "MRPT",
             "repo": "mvsim",
@@ -1651,8 +1651,8 @@
             "id": 460615268,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:23:18Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-07T00:09:52Z",
+            "open_issues": 87,
             "owner": "dora-rs",
             "repo": "dora",
             "stars": 3993,
@@ -1678,11 +1678,11 @@
             "id": 290790298,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T15:41:16Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-06T22:05:07Z",
+            "open_issues": 29,
             "owner": "copper-project",
             "repo": "copper-rs",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "operating-system",
               "physical-ai",
@@ -1705,7 +1705,7 @@
             "id": 9517720,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:51:14Z",
+            "last_commit": "2026-10-06T14:39:42Z",
             "open_issues": 249,
             "owner": "robotology",
             "repo": "yarp",
@@ -1753,7 +1753,7 @@
                 "open_issues": 73,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6230,
+                "stars": 6233,
                 "topics": [
                   "chart",
                   "csv",
@@ -1785,7 +1785,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-03T12:31:15Z",
-                "open_issues": 49,
+                "open_issues": 48,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4234,
@@ -1817,7 +1817,7 @@
                 "open_issues": 31,
                 "owner": "nasa",
                 "repo": "astrobee",
-                "stars": 1418,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:27.282Z"
@@ -1985,11 +1985,11 @@
                 "id": 1184507826,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:20:47Z",
+                "last_commit": "2026-10-06T22:01:17Z",
                 "open_issues": 53,
                 "owner": "manankharwar",
                 "repo": "fusioncore",
-                "stars": 369,
+                "stars": 371,
                 "topics": [
                   "autonomous-robots",
                   "autonomous-systems",
@@ -2055,7 +2055,7 @@
                 "id": 1098436077,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:33:23Z",
+                "last_commit": "2026-10-06T16:26:16Z",
                 "open_issues": 108,
                 "owner": "selfpatch",
                 "repo": "ros2_medkit",
@@ -2270,7 +2270,7 @@
                 "open_issues": 29,
                 "owner": "RobotWebTools",
                 "repo": "roslibjs",
-                "stars": 828,
+                "stars": 829,
                 "topics": [
                   "javascript",
                   "robotics",
@@ -2430,10 +2430,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T04:15:36Z",
-            "open_issues": 57,
+            "open_issues": 56,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30632,
+            "stars": 30636,
             "topics": [
               "algorithm",
               "animation",
@@ -2471,7 +2471,7 @@
             "open_issues": 144,
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19402,
+            "stars": 19403,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -2519,7 +2519,7 @@
             "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 3000,
+            "stars": 2999,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -2648,7 +2648,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3898,
+            "stars": 3899,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -2816,7 +2816,7 @@
             "open_issues": 19,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1480,
+            "stars": 1482,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:27.282Z"
@@ -2854,7 +2854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:05:51.443Z",
+    "last_updated": "2026-10-07T02:21:30.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects that were or will be featured in Weekly Robotics newsletter",
